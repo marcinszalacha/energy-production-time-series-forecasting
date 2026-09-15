@@ -1,0 +1,16 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+__pycache__/
+*.pyc
+
+models/
+.venv/
+venv/
+renv/library/
+
+.DS_Store
+Thumbs.db
