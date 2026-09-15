@@ -1,0 +1,241 @@
+id,date,value
+Biomass Energy Production,2019-02-01,0.854274
+Biomass Energy Production,2019-03-01,0.431175
+Biomass Energy Production,2019-04-01,0.420394
+Biomass Energy Production,2019-05-01,0.437302
+Biomass Energy Production,2019-06-01,0.430385
+Biomass Energy Production,2019-07-01,0.446584
+Biomass Energy Production,2019-08-01,0.443975
+Biomass Energy Production,2019-09-01,0.414057
+Biomass Energy Production,2019-10-01,0.429523
+Biomass Energy Production,2019-11-01,0.56926
+Biomass Energy Production,2019-12-01,0.708997
+Biomass Energy Production,2020-01-01,0.848734
+Biomass Energy Production,2020-02-01,0.834935
+Biomass Energy Production,2020-03-01,0.418209
+Biomass Energy Production,2020-04-01,0.332081
+Biomass Energy Production,2020-05-01,0.362879
+Biomass Energy Production,2020-06-01,0.381845
+Biomass Energy Production,2020-07-01,0.402748
+Biomass Energy Production,2020-08-01,0.405123
+Biomass Energy Production,2020-09-01,0.393075
+Biomass Energy Production,2020-10-01,0.406043
+Biomass Energy Production,2020-11-01,0.549091
+Biomass Energy Production,2020-12-01,0.6921390000000001
+Biomass Energy Production,2021-01-01,0.835187
+Coal Production,2019-02-01,2.253685
+Coal Production,2019-03-01,1.126072
+Coal Production,2019-04-01,1.234392
+Coal Production,2019-05-01,1.247969
+Coal Production,2019-06-01,1.145178
+Coal Production,2019-07-01,1.19111
+Coal Production,2019-08-01,1.286097
+Coal Production,2019-09-01,1.179775
+Coal Production,2019-10-01,1.162274
+Coal Production,2019-11-01,1.440928
+Coal Production,2019-12-01,1.719582
+Coal Production,2020-01-01,1.998236
+Coal Production,2020-02-01,1.845443
+Coal Production,2020-03-01,0.921015
+Coal Production,2020-04-01,0.786817
+Coal Production,2020-05-01,0.744336
+Coal Production,2020-06-01,0.790875
+Coal Production,2020-07-01,0.864182
+Coal Production,2020-08-01,0.950311
+Coal Production,2020-09-01,0.90264
+Coal Production,2020-10-01,0.899359
+Coal Production,2020-11-01,1.250743
+Coal Production,2020-12-01,1.6021269999999999
+Coal Production,2021-01-01,1.953511
+Crude Oil Production,2019-02-01,4.139549000000001
+Crude Oil Production,2019-03-01,2.101805
+Crude Oil Production,2019-04-01,2.072576
+Crude Oil Production,2019-05-01,2.144511
+Crude Oil Production,2019-06-01,2.081856
+Crude Oil Production,2019-07-01,2.101223
+Crude Oil Production,2019-08-01,2.203559
+Crude Oil Production,2019-09-01,2.149109
+Crude Oil Production,2019-10-01,2.255837
+Crude Oil Production,2019-11-01,2.888607
+Crude Oil Production,2019-12-01,3.521377
+Crude Oil Production,2020-01-01,4.154147
+Crude Oil Production,2020-02-01,4.072138
+Crude Oil Production,2020-03-01,2.261022
+Crude Oil Production,2020-04-01,2.033646
+Crude Oil Production,2020-05-01,1.713245
+Crude Oil Production,2020-06-01,1.778967
+Crude Oil Production,2020-07-01,1.932954
+Crude Oil Production,2020-08-01,1.862576
+Crude Oil Production,2020-09-01,1.855504
+Crude Oil Production,2020-10-01,1.837144
+Crude Oil Production,2020-11-01,2.5438306666666666
+Crude Oil Production,2020-12-01,3.250517333333333
+Crude Oil Production,2021-01-01,3.957204
+Geothermal Energy Production,2019-02-01,0.032309000000000004
+Geothermal Energy Production,2019-03-01,0.018061
+Geothermal Energy Production,2019-04-01,0.016386
+Geothermal Energy Production,2019-05-01,0.017342
+Geothermal Energy Production,2019-06-01,0.017047
+Geothermal Energy Production,2019-07-01,0.017641
+Geothermal Energy Production,2019-08-01,0.017799
+Geothermal Energy Production,2019-09-01,0.017398
+Geothermal Energy Production,2019-10-01,0.015554
+Geothermal Energy Production,2019-11-01,0.021343333333333332
+Geothermal Energy Production,2019-12-01,0.027132666666666666
+Geothermal Energy Production,2020-01-01,0.032922
+Geothermal Energy Production,2020-02-01,0.033509
+Geothermal Energy Production,2020-03-01,0.018232
+Geothermal Energy Production,2020-04-01,0.017302
+Geothermal Energy Production,2020-05-01,0.01733
+Geothermal Energy Production,2020-06-01,0.016383000000000002
+Geothermal Energy Production,2020-07-01,0.017058
+Geothermal Energy Production,2020-08-01,0.016985
+Geothermal Energy Production,2020-09-01,0.016505
+Geothermal Energy Production,2020-10-01,0.016674
+Geothermal Energy Production,2020-11-01,0.02260433333333333
+Geothermal Energy Production,2020-12-01,0.028534666666666663
+Geothermal Energy Production,2021-01-01,0.034464999999999996
+Hydroelectric Power Production,2019-02-01,0.395014
+Hydroelectric Power Production,2019-03-01,0.234504
+Hydroelectric Power Production,2019-04-01,0.247739
+Hydroelectric Power Production,2019-05-01,0.2848
+Hydroelectric Power Production,2019-06-01,0.250032
+Hydroelectric Power Production,2019-07-01,0.221515
+Hydroelectric Power Production,2019-08-01,0.201063
+Hydroelectric Power Production,2019-09-01,0.164972
+Hydroelectric Power Production,2019-10-01,0.163013
+Hydroelectric Power Production,2019-11-01,0.2414123333333333
+Hydroelectric Power Production,2019-12-01,0.3198116666666666
+Hydroelectric Power Production,2020-01-01,0.398211
+Hydroelectric Power Production,2020-02-01,0.415629
+Hydroelectric Power Production,2020-03-01,0.208999
+Hydroelectric Power Production,2020-04-01,0.203484
+Hydroelectric Power Production,2020-05-01,0.262981
+Hydroelectric Power Production,2020-06-01,0.245639
+Hydroelectric Power Production,2020-07-01,0.234606
+Hydroelectric Power Production,2020-08-01,0.204267
+Hydroelectric Power Production,2020-09-01,0.163869
+Hydroelectric Power Production,2020-10-01,0.165024
+Hydroelectric Power Production,2020-11-01,0.24521833333333332
+Hydroelectric Power Production,2020-12-01,0.3254126666666667
+Hydroelectric Power Production,2021-01-01,0.405607
+Natural Gas (Dry) Production,2019-02-01,5.734687
+Natural Gas (Dry) Production,2019-03-01,2.904813
+Natural Gas (Dry) Production,2019-04-01,2.824716
+Natural Gas (Dry) Production,2019-05-01,2.941149
+Natural Gas (Dry) Production,2019-06-01,2.854124
+Natural Gas (Dry) Production,2019-07-01,2.965529
+Natural Gas (Dry) Production,2019-08-01,3.037634
+Natural Gas (Dry) Production,2019-09-01,2.950891
+Natural Gas (Dry) Production,2019-10-01,3.076025
+Natural Gas (Dry) Production,2019-11-01,4.026154666666667
+Natural Gas (Dry) Production,2019-12-01,4.976284333333333
+Natural Gas (Dry) Production,2020-01-01,5.926413999999999
+Natural Gas (Dry) Production,2020-02-01,5.825331
+Natural Gas (Dry) Production,2020-03-01,3.065726
+Natural Gas (Dry) Production,2020-04-01,2.888862
+Natural Gas (Dry) Production,2020-05-01,2.807519
+Natural Gas (Dry) Production,2020-06-01,2.75569
+Natural Gas (Dry) Production,2020-07-01,2.897964
+Natural Gas (Dry) Production,2020-08-01,2.888611
+Natural Gas (Dry) Production,2020-09-01,2.798438
+Natural Gas (Dry) Production,2020-10-01,2.869664
+Natural Gas (Dry) Production,2020-11-01,3.912658
+Natural Gas (Dry) Production,2020-12-01,4.955652
+Natural Gas (Dry) Production,2021-01-01,5.998646
+Natural Gas Plant Liquids Production,2019-02-01,1.0341049999999998
+Natural Gas Plant Liquids Production,2019-03-01,0.528837
+Natural Gas Plant Liquids Production,2019-04-01,0.518351
+Natural Gas Plant Liquids Production,2019-05-01,0.541173
+Natural Gas Plant Liquids Production,2019-06-01,0.518834
+Natural Gas Plant Liquids Production,2019-07-01,0.526359
+Natural Gas Plant Liquids Production,2019-08-01,0.532905
+Natural Gas Plant Liquids Production,2019-09-01,0.539914
+Natural Gas Plant Liquids Production,2019-10-01,0.561574
+Natural Gas Plant Liquids Production,2019-11-01,0.7588613333333334
+Natural Gas Plant Liquids Production,2019-12-01,0.9561486666666668
+Natural Gas Plant Liquids Production,2020-01-01,1.1534360000000001
+Natural Gas Plant Liquids Production,2020-02-01,1.089811
+Natural Gas Plant Liquids Production,2020-03-01,0.585081
+Natural Gas Plant Liquids Production,2020-04-01,0.531865
+Natural Gas Plant Liquids Production,2020-05-01,0.528563
+Natural Gas Plant Liquids Production,2020-06-01,0.559933
+Natural Gas Plant Liquids Production,2020-07-01,0.597857
+Natural Gas Plant Liquids Production,2020-08-01,0.596061
+Natural Gas Plant Liquids Production,2020-09-01,0.572131
+Natural Gas Plant Liquids Production,2020-10-01,0.590024
+Natural Gas Plant Liquids Production,2020-11-01,0.7931976666666667
+Natural Gas Plant Liquids Production,2020-12-01,0.9963713333333334
+Natural Gas Plant Liquids Production,2021-01-01,1.199545
+Nuclear Electric Power Production,2019-02-01,1.438787
+Nuclear Electric Power Production,2019-03-01,0.679562
+Nuclear Electric Power Production,2019-04-01,0.632586
+Nuclear Electric Power Production,2019-05-01,0.700904
+Nuclear Electric Power Production,2019-06-01,0.718461
+Nuclear Electric Power Production,2019-07-01,0.753898
+Nuclear Electric Power Production,2019-08-01,0.750891
+Nuclear Electric Power Production,2019-09-01,0.689836
+Nuclear Electric Power Production,2019-10-01,0.647745
+Nuclear Electric Power Production,2019-11-01,0.905137
+Nuclear Electric Power Production,2019-12-01,1.162529
+Nuclear Electric Power Production,2020-01-01,1.419921
+Nuclear Electric Power Production,2020-02-01,1.418374
+Nuclear Electric Power Production,2020-03-01,0.668515
+Nuclear Electric Power Production,2020-04-01,0.61809
+Nuclear Electric Power Production,2020-05-01,0.672074
+Nuclear Electric Power Production,2020-06-01,0.702024
+Nuclear Electric Power Production,2020-07-01,0.7248
+Nuclear Electric Power Production,2020-08-01,0.720588
+Nuclear Electric Power Production,2020-09-01,0.686588
+Nuclear Electric Power Production,2020-10-01,0.6201
+Nuclear Electric Power Production,2020-11-01,0.8816653333333333
+Nuclear Electric Power Production,2020-12-01,1.1432306666666667
+Nuclear Electric Power Production,2021-01-01,1.4047960000000002
+Solar Energy Production,2019-02-01,0.109127
+Solar Energy Production,2019-03-01,0.083916
+Solar Energy Production,2019-04-01,0.095079
+Solar Energy Production,2019-05-01,0.101999
+Solar Energy Production,2019-06-01,0.1098
+Solar Energy Production,2019-07-01,0.11292
+Solar Energy Production,2019-08-01,0.109037
+Solar Energy Production,2019-09-01,0.095227
+Solar Energy Production,2019-10-01,0.08477
+Solar Energy Production,2019-11-01,0.10365766666666666
+Solar Energy Production,2019-12-01,0.12254533333333334
+Solar Energy Production,2020-01-01,0.141433
+Solar Energy Production,2020-02-01,0.146277
+Solar Energy Production,2020-03-01,0.091046
+Solar Energy Production,2020-04-01,0.108875
+Solar Energy Production,2020-05-01,0.128736
+Solar Energy Production,2020-06-01,0.12876
+Solar Energy Production,2020-07-01,0.138551
+Solar Energy Production,2020-08-01,0.125062
+Solar Energy Production,2020-09-01,0.10625
+Solar Energy Production,2020-10-01,0.096461
+Solar Energy Production,2020-11-01,0.123986
+Solar Energy Production,2020-12-01,0.151511
+Solar Energy Production,2021-01-01,0.179036
+Wind Energy Production,2019-02-01,0.43871899999999997
+Wind Energy Production,2019-03-01,0.229506
+Wind Energy Production,2019-04-01,0.257491
+Wind Energy Production,2019-05-01,0.229565
+Wind Energy Production,2019-06-01,0.199881
+Wind Energy Production,2019-07-01,0.196807
+Wind Energy Production,2019-08-01,0.177904
+Wind Energy Production,2019-09-01,0.218292
+Wind Energy Production,2019-10-01,0.245996
+Wind Energy Production,2019-11-01,0.34311499999999995
+Wind Energy Production,2019-12-01,0.44023399999999996
+Wind Energy Production,2020-01-01,0.537353
+Wind Energy Production,2020-02-01,0.536215
+Wind Energy Production,2020-03-01,0.257222
+Wind Energy Production,2020-04-01,0.261016
+Wind Energy Production,2020-05-01,0.248956
+Wind Energy Production,2020-06-01,0.265053
+Wind Energy Production,2020-07-01,0.200605
+Wind Energy Production,2020-08-01,0.202036
+Wind Energy Production,2020-09-01,0.203411
+Wind Energy Production,2020-10-01,0.252861
+Wind Energy Production,2020-11-01,0.36301966666666663
+Wind Energy Production,2020-12-01,0.4731783333333333
+Wind Energy Production,2021-01-01,0.583337
